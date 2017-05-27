@@ -1,49 +1,8 @@
-.menu
-		{
-			float:left;
-			font-size: 0.7em;
-			padding:1px 10px 0px;
-			list-style-type:none;
-			margin-bottom:0px;
-			color:gray;
-			border-right: 0.5px solid gray;
-		}
-		li
-		{
-			list-style-type:none;
-		}
-		.leftTittle
-		{
-			float:left;
-			width:100px;
-			color:#E59400;
-		}
-		.exp, skills
-		{
-
-			padding-top:30px;
-			padding-left:100px;
-		}
-		.sub-title
-		{
-			clear:left;
-			font-weight: bold;
-		}
-		.secundario
-		{
-			color:gray;
-		}
-		section
-		{
-			clear:left;
-		}
-		body{
-			padding-left: 200px;
-		}
-		a{
-			color: #FFA500;
-			text-decoration:none;
-		}
-		h2{
-			font-size:0.9em;
-		}
+body{
+	background-color: #d9d9d9;
+}
+.container{
+	background-color: white;
+	height: 100vh;
+	width: 90%;
+}
