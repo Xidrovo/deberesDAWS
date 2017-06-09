@@ -9,6 +9,7 @@ body{
 }
 nav{
 	margin-bottom: 0.1%;
+	height: 100px;
 }
 
 .hideContent {
@@ -35,4 +36,17 @@ nav{
 }
 a{
 	cursor: pointer;
+}
+
+a.brand-logo{
+	color: #b2d234;
+}
+
+
+.tabs .tab a,.tabs .tab a:hover, .tabs .tab a.active, .tabs .tab a.active:hover {
+	color: #b2d234;
+}
+
+.tabs .indicator{
+    background-color: rgba(92,107,192,0.5);
 }
