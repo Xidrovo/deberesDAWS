@@ -30,7 +30,7 @@ nav{
 .show-more{
 	margin-bottom: 5%;
 }
-.objectives li{
+.objectives li, .objectives{
 	padding-left:5em;
 }
 a{
